@@ -1,2 +1,2 @@
 # FACEBOOK_CLONE
-https://admirable-khapse-e2ece5.netlify.app
+https://admirable-khapse-e2ece.netlify.app/
