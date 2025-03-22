@@ -16,8 +16,8 @@ body {
   width: 38%;
   display: inline-block;
   vertical-align: top;
-  margin: 13% 2% 4% 12%; 
-  
+  margin: 13% 2% 4% 12%;
+
 }
 
 .left-container p {
@@ -32,7 +32,7 @@ form {
   padding: 15px 5px;
   border-radius: 12px;
   box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
-  font-family:sans-serif;
+  font-family: sans-serif;
   height: vh;
 
 }
@@ -43,9 +43,9 @@ form {
   display: inline-block;
   border: 2px solid #f0f2f5;
   text-align: center;
-  margin: 10% 4% 4% 4%; 
+  margin: 10% 4% 4% 4%;
   position: relative;
-  
+
 }
 
 .right-container p {
@@ -64,8 +64,7 @@ input {
   border-radius: 8px;
 }
 
-.btn-1
-{
+.btn-1 {
   font-size: 17px;
   font-weight: 700;
   width: 94%;
@@ -76,8 +75,7 @@ input {
   color: #fff;
 }
 
-.btn-2
-{
+.btn-2 {
   font-size: 17px;
   font-weight: 700;
   width: 64%;
@@ -87,5 +85,5 @@ input {
   background: #36A420;
   border: #36A420;
   color: #fff;
-  
+
 }
